@@ -11,6 +11,6 @@ puts status
 end
 end
 
-def take_a_number(number,name)
+def take_a_number(umber,nname)
   if 
 end
