@@ -19,7 +19,7 @@ end
 def now_serving(line)
   if line.size == 0
   puts "There is nobody waiting to be served!"
-  elsif lize.size >= 1
+  elsif line.size >= 1
 puts "Currently serving #{line[0]}"
 end
 end
