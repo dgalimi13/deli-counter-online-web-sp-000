@@ -10,3 +10,7 @@ def line(people)
 puts status
 end
 end
+
+def take_a_number(number,name)
+  
+end
