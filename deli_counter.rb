@@ -13,5 +13,6 @@ end
 
 def take_a_number(line,name)
   if line.size == 0
-    line 
+    line << name
+    
 end
