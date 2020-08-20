@@ -16,6 +16,9 @@ def take_a_number(line,name)
     puts "Welcome, #{name}. You are number #{line.size} in line."
 end
 
-def now_serving(name)
+def now_serving(line)
+  if line.size == 0
   puts "There is nobody waiting to be served!"
+  elsif lize.size >= 1
+puts "Currently serving #{line[0]}
 end
